@@ -1,0 +1,41 @@
+.font-size-24 {
+    font-size: 24px;
+}
+
+.avatar-sm {
+    height: 3rem;
+    width: 3rem;
+}
+
+.mini-stats-wid .mini-stat-icon {
+    overflow: hidden;
+    position: relative;
+}
+
+.mini-stats-wid .mini-stat-icon::after, .mini-stats-wid .mini-stat-icon::before {
+    content: "";
+    background-color: hsla(0, 0%, 100%, .1);
+    height: 54px;
+    left: 16px;
+    position: absolute;
+    top: -5px;
+    transform: rotate(32deg);
+    -webkit-transform: rotate(32deg);
+    transition: all .4s;
+    width: 8px
+}
+
+.avatar-title {
+    display: flex;
+    background-color: #556ee6;
+    color: #fff;
+    font-weight: 500;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    border-radius: .4rem;
+}

@@ -1,0 +1,229 @@
+ul.navbar-nav.sidebar-dark > li.active > a.nav-link {
+  font-weight: 700 !important;
+  color: #fff !important;
+  font-size: 1.8rem !important;
+}
+
+.class-fresher {
+  width: 100%;
+  border: 20px;
+}
+
+.group-btn-classfresher {
+  margin: 20px 0 20px 0;
+}
+.group-btn-classfresher:nth-child(4) {
+  display: flex;
+  justify-content: end;
+}
+
+.btn-classfresher:nth-child(1) {
+  margin-right: 20px;
+}
+
+.btn-classfresher {
+  color: white;
+  background-color: #4e73df;
+  padding: 10px;
+  border: none;
+  border-radius: 7px;
+  font-weight: 600;
+}
+
+tbody tr:hover {
+  background-color: rgb(203, 201, 201);
+  color: white;
+  cursor: pointer;
+}
+
+h4 {
+  margin: 20px 0 20px 0;
+  color: #4e73df;
+}
+
+.detail-class {
+  padding: 20px 10px;
+  size: 15px;
+  border-bottom: 2px solid black;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
+
+.detail-import-class {
+  border-radius: 5px;
+  padding: 10px;
+  background-color: white;
+  size: 15px;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  margin: 20px 0 0 0;
+}
+
+.detail-import-class span {
+  margin: 10px 0 10px 0;
+}
+
+.info-detail-import-class {
+  display: flex;
+  justify-content: space-between;
+}
+
+.detail-class-admin-trainer {
+  border-radius: 5px;
+  padding: 20px 10px;
+  padding: 10px;
+  background-color: whitesmoke;
+  size: 15px;
+  display: block;
+  border-bottom: 2px solid black;
+  border-radius: 0px;
+}
+
+.btn-show {
+  color: white;
+  background-color: #4e73df;
+  padding: 10px;
+  border: none;
+  border-radius: 7px;
+  font-weight: 400;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.import-class {
+  margin: 20px 0 30px 0px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.container-import-class {
+  margin: 40px 0 20px 0;
+}
+
+#standard-select {
+  height: 30px;
+  width: 100%;
+  padding-left: 10px;
+}
+
+.input-detail-import-class {
+  margin-bottom: 15px;
+}
+
+.info-detail-import-class span {
+  width: 33%;
+}
+
+.info-detail-import-class input {
+  width: 100%;
+}
+
+.input-detail-import-class input {
+  -webkit-appearance: none;
+  width: 100%;
+  border: 0;
+  font-family: inherit;
+  padding: 0;
+  height: 30px;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 0;
+  padding-left: 10px;
+}
+
+.btn-confirm {
+  justify-content: end;
+  display: flex;
+}
+
+ul.nav.nav-pills > li.nav-item > a.nav-link.active {
+  background-color: #2cbdbf !important;
+}
+.btn-show-detail {
+  color: white;
+  background-color: #4e73df;
+  border: none;
+  font-weight: 400;
+  width: 100px;
+  border-radius: 5px;
+}
+.detail-class-admin-trainer {
+  display: flex;
+  flex-direction: column;
+}
+.detail-class-admin-trainer input {
+  width: 100%;
+}
+.btn-classfresher-save {
+  color: white;
+  background-color: green;
+  padding: 10px;
+  border: none;
+  border-radius: 7px;
+  font-weight: 600;
+  margin-left: 20px;
+}
+.btn-classfresher-cancel {
+  color: white;
+  background-color: red;
+  padding: 10px;
+  border: none;
+  border-radius: 7px;
+  font-weight: 600;
+}
+.group-btn-edit-save {
+  margin: 10px 0px 10px 0px;
+  display: flex;
+  justify-content: end;
+}
+.info-admin-trainer {
+  display: flex;
+}
+.info-class {
+  width: 50%;
+}
+.info-class:nth-child(2) {
+  width: 50%;
+  padding: 0 0 0 20px;
+}
+.MuiGrid-root .MuiGrid-item .MuiGrid-grid-xs-4 .css-gj1fbr-MuiGrid-root {
+  padding: 0 20px;
+}
+
+.controlBorder {
+  display: flex;
+}
+.Module {
+  margin-left: 40px;
+}
+.createForm {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: end;
+}
+.TableScore {
+  margin-left: 40px;
+  margin-top: 50px;
+  height: 500px;
+  margin: 0 auto;
+  width: 100%;
+}
+.ScoreDetailBorder {
+  padding: 0 40px;
+  width: 100%;
+}
+
+.assignmentTable {
+  height: 300px;
+
+  text-align: center;
+
+}
+.page-link {
+  cursor: pointer;
+}
+
+.info-box{
+  min-height : 70px;
+}
